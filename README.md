@@ -28,3 +28,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
+
+
+
+
+### 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="Frontend" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,vscode&perline=5" alt="Backend" />
+</p>
