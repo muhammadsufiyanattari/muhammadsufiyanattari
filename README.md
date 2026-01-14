@@ -1,3 +1,4 @@
+<p align="Center"> <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/raw/main/Assets/background.png" alt="muhammadsufiyanattari" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan</h1>
 <h3 align="center">A passionate frontend developer from SMIT</h3>
 
