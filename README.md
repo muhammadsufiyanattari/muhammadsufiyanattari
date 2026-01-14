@@ -1,12 +1,12 @@
 <p align="Center"> <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/raw/main/Assets/background.png" alt="muhammadsufiyanattari" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan</h1>
-<h3 align="center">A passionate frontend developer from SMIT</h3>
+<h3 align="center">Completed a Web Development certification from SMIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsufiyanattari&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsufiyanattari" /> </p>
 
 
 
-- 🌱 I’m currently learning **Next js Express js**
+- 🌱 I’m currently learning **Next js Express js Mongo DB**
 
 - 📫 How to reach me **khann42922@gmail.com**
 
