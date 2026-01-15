@@ -1,5 +1,5 @@
  <p align="Center"> <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/raw/main/Assets/background.png" alt="muhammadsufiyanattari" /> </p>
-<!-- <p align="Center"> <img src="" alt="muhammadsufiyanattari" /> </p> -->
+<p align="Center"> <img src="background.png" alt="muhammadsufiyanattari" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan</h1>
 <h3 align="center">Completed a Web Development certification from SMIT</h3>
 
