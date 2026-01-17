@@ -43,6 +43,6 @@
 </p>
 
 
-
+<img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
 
 
