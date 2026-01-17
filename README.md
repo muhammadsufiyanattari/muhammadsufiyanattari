@@ -41,6 +41,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,vscode&perline=5" alt="Backend" />
  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+ <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
 </p>
 
 
