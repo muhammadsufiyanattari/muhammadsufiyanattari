@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Next js Express js Mongo DB**
+- 🌱 I’m currently learning **Python Prgramming**
 
 - 📫 How to reach me **khann42922@gmail.com**
 
